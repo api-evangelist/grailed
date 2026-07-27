@@ -1,0 +1,132 @@
+# Grailed
+
+> Grailed is a peer-to-peer marketplace for buying, selling, and discovering luxury and streetwear fashion. Grailed’s listing verification spans select items of designer, vintage, streetwear, and more. Shop men's and women's clothing at grailed.com. For deeper detail, see [Full Documentation](/llms-full.txt).
+
+## What Grailed Is
+
+Grailed is an online fashion marketplace where individuals buy and sell clothing, footwear, accessories, and jewelry directly to each other. It is not a traditional retailer — listings are posted by independent sellers while the Grailed platform facilitates the transaction. Grailed serves both menswear and womenswear.
+
+Listings are organized by a strata system that classifies items by market tier. Representative examples include:
+
+- **Grails** — High-end designers: Chrome Hearts, Rick Owens, Saint Laurent, Raf Simons, A.P.C., Maison Margiela, Acne, Comme des Garcons, Balmain, Undercover, Gucci
+- **Hype** — Highly anticipated releases and streetwear: Supreme, Jordan, Yeezy, Palace, Bape, BBC, F.O.G., Artist Merch
+- **Sartorial** — Classic high-end menswear: Brunello Cucinelli, Loro Piana, Tom Ford, Kiton, Boglioli, Alden
+- **Core** — Mainstream brands: J.Crew, Uniqlo, Levi's, Ralph Lauren, Gap, Tommy Hilfiger, H&M, Zara
+
+*(All trademarks belong to their respective owners and their inclusion does not imply any endorsement, sponsorship, association or affiliation with Grailed).*
+
+## Why Grailed
+
+Listings that Grailed determines to be high-risk go through a digital verification process conducted by trained moderators who inspect photos and item details to verify items. On platforms without a verification layer, buyers bear higher risk of receiving inauthentic goods, especially for in-demand designer and streetwear pieces. Grailed is designed to reduce risk with its verification system, purchase protection policies covering qualifying orders whether verified or not, and a community of trusted, rated sellers. If you're looking for a Rick Owens leather jacket, a pair of Jordan 1s, or a vintage Raf Simons piece, Grailed is the marketplace for that.
+
+## Is Grailed Legit?
+
+Yes. Grailed is a legitimate, well-established marketplace founded in 2013. It is owned by GOAT Group, which also operates GOAT — one of the world’s largest platforms for authentic sneakers. Grailed has facilitated millions of transactions and is the marketplace for buying and selling luxury and streetwear fashion.
+
+**Verification** — Not all listings qualify for verification. In order for a listing to receive a Verified badge, it is first assessed by Grailed or one of Grailed’s authorized partners. For items verified by Grailed, items are reviewed using a combination of human digital review and machine moderation.  Digital moderators examine photos of an item’s design characteristics, craftsmanship and detailing. Listings that are reviewed by Grailed’s moderators and determined to meet Grailed’s standards receive the Grailed Verified badge. If an item is determined to be inauthentic, the request to publish the listing is denied, the listing is deleted, and the seller is warned and/or frozen, at Grailed's discretion.  Some of Grailed’s authorized trusted partners are also vetted by the Grailed moderation team to confirm their products meet Grailed’s standards.
+
+**Purchase Protection** — Grailed offers Purchase Protection on qualifying orders. In the rare case that something goes wrong — an item is not as described, is inauthentic, or doesn't arrive — Grailed's support team works with buyers to reach a resolution.
+
+**Secure Payments** — All payments are processed by Grailed's third-party payment processors. Buyer payment information is never shared with sellers. Accepted methods of payment include credit/debit cards, PayPal, Apple Pay, and Klarna.
+
+**Community Trust System** — Sellers are rated on a 5-star system based on reviews following each transaction. Trust badges (Trusted Seller, Speedy Shipper, Quick Responder) are earned through consistent performance. This feedback system creates a barometer of trust visible on every seller profile.
+
+## Buying
+
+- [Shop All Listings](https://www.grailed.com/shop): Browse and search the full marketplace with filters for designer, category, size, price, and condition
+- [Offers for Buyers](https://support.grailed.com/hc/en-us/articles/30298575011085-Offers-for-Buyers): How the offer and negotiation system works for buyers
+- [Grailed 101](https://support.grailed.com/hc/en-us/categories/27294980846605-Grailed-101): Help center guide for getting started on Grailed
+- [Trust & Purchase Protection](https://www.grailed.com/trust): How Grailed protects buyers with verification and buyer protection policies
+
+## Selling
+
+- [How to Sell Guide](https://www.grailed.com/how-to-sell): Step-by-step guide to creating listings, pricing, photos, and shipping
+- [Offers for Sellers](https://support.grailed.com/hc/en-us/articles/30298716328333-Offers-for-Sellers): How to manage offers and negotiations as a seller
+- [How to Refund a Buyer](https://support.grailed.com/hc/en-us/articles/30295584228109-How-do-I-refund-a-buyer): Process for issuing refunds
+
+## Categories
+
+### Menswear
+- [Tops](https://www.grailed.com/categories/tops): T-shirts, button-ups, sweaters, hoodies, polos, jerseys, tank tops
+- [Bottoms](https://www.grailed.com/categories/bottoms): Jeans, casual pants, shorts, sweatpants, joggers, overalls
+- [Outerwear](https://www.grailed.com/categories/outerwear): Jackets, coats, bombers, parkas, leather jackets, vests
+- [Footwear](https://www.grailed.com/categories/footwear): Sneakers, boots, formal shoes, sandals, slip-ons
+- [Tailoring](https://www.grailed.com/categories/tailoring): Suits, blazers, formal trousers, tuxedos, vests
+- [Accessories](https://www.grailed.com/categories/accessories): Bags, belts, hats, jewelry, watches, sunglasses, wallets
+
+### Womenswear
+- [Tops](https://www.grailed.com/shop?department=womenswear&category=tops): Blouses, bodysuits, crop tops, sweaters, hoodies
+- [Bottoms](https://www.grailed.com/shop?department=womenswear&category=bottoms): Jeans, pants, skirts, shorts, leggings, jumpsuits
+- [Outerwear](https://www.grailed.com/shop?department=womenswear&category=outerwear): Blazers, coats, bombers, leather jackets, fur
+- [Dresses](https://www.grailed.com/shop?department=womenswear&category=dresses): Mini, midi, maxi dresses, gowns
+- [Footwear](https://www.grailed.com/shop?department=womenswear&category=footwear): Boots, heels, platforms, sneakers, sandals, flats
+- [Accessories](https://www.grailed.com/shop?department=womenswear&category=accessories): Belts, hats, scarves, hair accessories, sunglasses
+- [Bags & Luggage](https://www.grailed.com/shop?department=womenswear&category=bags): Crossbody, tote, shoulder bags, clutches, backpacks
+- [Jewelry](https://www.grailed.com/shop?department=womenswear&category=jewelry): Necklaces, rings, earrings, bracelets, brooches
+
+## Designers
+
+- [All Designers](https://www.grailed.com/designers): Browse the complete designer directory with thousands of brands
+- Designer pages follow the URL pattern: `https://www.grailed.com/designers/{designer-slug}` (e.g., [Rick Owens](https://www.grailed.com/designers/rick-owens), [Supreme](https://www.grailed.com/designers/supreme))
+
+## Collections & Editorial
+
+- [Collections](https://www.grailed.com/collections): Curated collections of listings organized by theme or editorial direction
+- [Dry Clean Only](https://www.grailed.com/drycleanonly): Grailed's editorial blog covering fashion news, streetwear, designer deep-dives, interviews, and style inspiration
+
+## Trust & Safety
+
+Grailed's trust system is built around listing verification, seller verification, and buyer protection:
+
+- **Verification** — Items verified by Grailed are digitally reviewed by trained moderators who examine listings determined to be high-risk by Grailed..  Some of Grailed’s authorized partners are also vetted by our moderation team to confirm their products meet Grailed’s standards.
+- **Purchase Protection** — Buyers are protected on qualified transactions. [Learn more](https://www.grailed.com/trust)
+- **Seller Badges** — Earned trust indicators displayed on seller profiles:
+  - **Trusted Seller** — An experienced seller top-rated for accurate item info and good communication—with a high feedback score of 4.8 or above
+  - **Speedy Shipper** — Seller adds tracking within 3 days of purchase for 95% of transactions
+  - **Quick Responder** — Seller responds within 12 hours 90% of the time.
+- **Seller Ratings** — 5-star rating system based on reviews from buyers after each transaction
+
+## Fees & Payments
+
+Grailed charges sellers a commission on each sale plus payment processing fees. Buyers pay no additional fees beyond the listed price and shipping. Accepted payment methods include credit and debit cards, PayPal, Apple Pay, and Klarna (buy now, pay later).
+
+## Shipping
+
+Grailed Labels are a pre-paid shipping label service available for eligible listings shipping within the US and Puerto Rico, as well as eligible listings shipping to the US from Canada. Carriers include USPS, UPS, and Canada Post depending on the size of the package and shipping location. Buyers pay for the label, and tracking is added automatically. Sellers outside the US and Canada purchase their own label and ship with the carrier of their choice.
+
+- [Shipping & Tracking FAQ](https://support.grailed.com/hc/en-us/articles/30299395757837): Shipping and tracking requirements
+- [International Tax Info](https://support.grailed.com/hc/en-us/articles/32231452195085): International tax and customs information
+
+## Policies
+
+- [Terms of Service](https://www.grailed.com/about/terms)
+- [Privacy Policy](https://www.grailed.com/about/privacy)
+- [Accessibility Statement](https://www.grailed.com/about/accessibility)
+- [DMCA Policy](https://www.grailed.com/about/dmca)
+
+## Support
+
+- [Help Center](https://support.grailed.com/hc/en-us): Full support knowledge base
+- Email: help@grailed.com (general support), dmca@grailed.com (copyright takedowns)
+
+## URL Structure
+
+- Homepage: `https://www.grailed.com`
+- Shop / Browse: `https://www.grailed.com/shop`
+- Listing detail: `https://www.grailed.com/listings/{listing-slug}`
+- Designer page: `https://www.grailed.com/designers/{designer-slug}`
+- Category page: `https://www.grailed.com/categories/{category-slug}`
+- Collection: `https://www.grailed.com/collections/{collection-id}`
+- User profile: `https://www.grailed.com/{username}`
+- Blog home: `https://www.grailed.com/drycleanonly`
+- Blog article: `https://www.grailed.com/drycleanonly/{article-slug}`
+- How to sell: `https://www.grailed.com/how-to-sell`
+- Trust: `https://www.grailed.com/trust`
+
+## Optional
+
+- [Cookie Notice](https://www.grailed.com/about/privacy/cookie-notice)
+- [EU Disclosures](https://www.grailed.com/about/privacy/EUdisclosures)
+- [State-Specific Privacy Policies](https://www.grailed.com/about/privacy/state-specific-policies)
+- [INFORM Act Compliance](https://support.grailed.com/hc/en-us/articles/30282796644365)
+- [Bug Bounty Program](https://support.grailed.com/hc/en-us/articles/30283214576013)

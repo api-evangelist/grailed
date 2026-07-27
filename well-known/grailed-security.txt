@@ -1,0 +1,5 @@
+Contact: mailto:security@grailed.com
+Expires: 2028-01-01T05:00:00.000Z
+Preferred-Languages: en
+Policy: https://support.grailed.com/hc/en-us/articles/30283214576013-Grailed-s-Bug-Bounty-Program
+Hiring: https://www.grailed.com/jobs

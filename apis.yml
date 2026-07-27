@@ -1,9 +1,30 @@
 aid: grailed
 name: Grailed
-description: 'Grailed is a company surfaced as a portfolio company of index-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: retail. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Grailed is a peer-to-peer online marketplace for buying, selling, and
+  discovering luxury, designer, vintage, and streetwear fashion for both men and
+  women. Founded in 2013 and owned by GOAT Group, the platform lets independent
+  sellers list clothing, footwear, accessories, and jewelry while Grailed
+  facilitates the transaction, offering digital listing verification by trained
+  moderators, purchase protection on qualifying orders, secure third-party
+  payment processing (card, PayPal, Apple Pay, Klarna), and a community trust
+  and seller-rating system. Grailed does not publish a public developer API; it
+  exposes a consumer web and mobile experience, an agent-facing /llms.txt, and a
+  RFC 9116 security.txt with a bug bounty program. This profile was surfaced as a
+  portfolio company of Index Ventures and enriched by the API Evangelist pipeline.
 url: https://raw.githubusercontent.com/api-evangelist/grailed/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://media-assets.grailed.com/prd/misc/-RX1V_JQQQLCZNNTDSDYB-WCAIHQG170G9OVQG?fit=crop&h=630&w=1200
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Retail
+- Fashion
+- Marketplace
+- Ecommerce
+- Resale
+- Streetwear
+- Luxury
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +51,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://grailed.com
+  url: https://www.grailed.com
+- type: Support
+  url: https://support.grailed.com/hc/en-us
+- type: SignUp
+  url: https://www.grailed.com/users/sign_up
+- type: TermsOfService
+  url: https://www.grailed.com/about/terms
+- type: PrivacyPolicy
+  url: https://www.grailed.com/about/privacy
+- type: LLMsTxt
+  url: llms/grailed-llms.txt
+- type: WellKnown
+  url: well-known/grailed-well-known.yml
+- type: SecurityTxt
+  url: well-known/grailed-security.txt
+- type: DomainSecurity
+  url: security/grailed-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/grailed-vulnerability-disclosure.yml
+- type: Security
+  url: https://support.grailed.com/hc/en-us/articles/30283214576013-Grailed-s-Bug-Bounty-Program
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

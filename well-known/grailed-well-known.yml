@@ -1,0 +1,24 @@
+generated: '2026-07-19'
+method: searched
+source: live probe of https://www.grailed.com/.well-known/*
+host: https://www.grailed.com
+documents:
+- path: /.well-known/security.txt          # RFC 9116
+  status: 200
+  file: grailed-security.txt
+- path: /.well-known/openid-configuration   # OIDC discovery
+  status: 404
+- path: /.well-known/oauth-authorization-server  # RFC 8414
+  status: 404
+- path: /.well-known/api-catalog            # RFC 9727
+  status: 404
+- path: /.well-known/ai-plugin.json         # OpenAI plugin manifest
+  status: 404
+- path: /.well-known/mcp.json               # MCP discovery
+  status: 404
+notes: >-
+  Grailed is a consumer fashion resale marketplace with no public developer API.
+  The only positive discovery hit is a valid RFC 9116 security.txt (saved
+  verbatim). A separate agent-facing /llms.txt (HTTP 200) is captured under
+  llms/grailed-llms.txt. Site is fronted by Cloudflare which 403s generic
+  clients; probes above used the apievangelist-security-probe user-agent.
